@@ -1,0 +1,1 @@
+Simple directory going over basic bash commands. Will slowly word up to more complex commands
