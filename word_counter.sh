@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 get_input() {
     echo "Enter files to count"
